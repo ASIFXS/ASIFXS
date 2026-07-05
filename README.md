@@ -24,7 +24,6 @@ intersection of classical robotics stacks and modern ML:
 
 ### 🌱 Currently working on
 
-- Integrating **Physical Intelligence's π0.5 Vision-Language-Action policy** with a UR5e via the `openpi` framework — building out server-to-robot communication over RTDE and iterating from a smoke test toward real action quality
 - Real-time object tracking pipelines (RealSense + open-vocab segmentation + BoT-SORT) for robust perception under occlusion
 - ROS/ROS2 developer tooling to make day-to-day robotics workflows faster
 
