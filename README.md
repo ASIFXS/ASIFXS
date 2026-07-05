@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/asifalitp/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-Asif%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mguasifali@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mguasifali@gmail.com">
     <img src="https://img.shields.io/badge/Email-mguasifali%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -29,6 +29,7 @@ stacks and modern ML:
 ### 🌱 Currently working on
 
 - Currently a **researcher at IIT Madras**, exploring **Vision-Language-Action (VLA) models** and the broader space of **Physical AI** — bringing learned policies into contact with real hardware on a UR5e
+- Real-time object tracking pipelines (RealSense + open-vocab segmentation + BoT-SORT) for robust perception under occlusion
 - ROS/ROS2 developer tooling to make day-to-day robotics workflows faster
 
 ---
@@ -57,7 +58,7 @@ I'm always happy to connect with people working on **robot learning, manipulatio
   <a href="https://www.linkedin.com/in/asifalitp/?skipRedirect=true">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
-  <a href="mailto:mguasifali@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mguasifali@gmail.com">
     <img src="https://img.shields.io/badge/Say%20hi%20via-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Say hi via Email"/>
   </a>
 </p>
